@@ -89,7 +89,7 @@ BONUS 2) "Also, not sure if this is from 3.x exactly, but there's the dialer.exe
 BONUS 3) "I got an error message once in Win7 when I was running some programs for Windows 1.x or 2.x... it went something like "This program was made for a version of Windows before 3.1, are you sure you want to run it?" The same message appears in 3.1 when you try to do something like that. Now, I'm not sure if it's accessible still, since 64bit Windows can't run old 16bit apps, but I'd bet you it's still in there in the code. And there are probably more," quote Luka Marinov ❌
 **Score: 0/5**
 
-###### Overall Score: 7/60
+**Overall Score: 7/60**
 
 The fact that there are still remnants that go all the way back to Windows 3.1 is baffling. It's crazy how lazy Microsoft has gotten when it comes to updating these features. It seems like the older they get, the less likely Microsoft is to actually update them. I have my doubts that the Windows 3.1 remnants will ever receive an update. If Microsoft dedicated an entire feature update to fixing these ancient elements of their bloated operating system, I would be extremely happy as it's long overdue. They're clearly leaving these so people just get used to them and forget that they were ever outdated.
 
