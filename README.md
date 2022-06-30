@@ -1,4 +1,4 @@
-# Windows-11-Inconsistencies
+# Windows 11 Inconsistencies
 **I've compiled this list of inconsistencies from these two videos to see which ones have been updated and which haven't. With the Windows Insider beta channel for 22H2 on 6/29/2022, this is what I have found.**
 
 ## Windows 10 Remnants
