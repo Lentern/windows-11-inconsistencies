@@ -3,14 +3,14 @@
 
 ## Windows 10 Remnants
 1) Calculator - updated to Windows 11 ✔
-2) Camera - unchanged from Windows 10 ❌
+2) Camera - updated to Windows 11 ✔
 3) Mail - unchanged from Windows 10 ❌
 4) LogonUI Network Flyout - unchanged from Windows 10 ❌
 5) On-Screen Keyboard - unchanged from Windows 10 ❌
 6) Magnifier - unchanged from Windows 10 ❌
 7) Registry Editor Product Name - unchanged from Windows 10 (seriously?) ❌
 
-**Score: 1/7**
+**Score: 2/7**
 
 ## Windows 8/8.1 Remnants
 1) LogonUI Ease of Access Flyout - updated to Windows 11 ✔
@@ -108,7 +108,7 @@
 
 **Score: 0/1**
 
-## Overall Score: 7/68
+## Overall Score: 8/68
 The fact that there are still remnants that go all the way back to Windows 3.1 is baffling. It's crazy how lazy Microsoft has gotten when it comes to updating these features. It seems like the older they get, the less likely Microsoft is to actually update them. I have my doubts that the Windows 3.1 remnants will ever receive an update. If Microsoft dedicated an entire feature update to fixing these ancient elements of their bloated operating system, I would be extremely happy as it's long overdue. They're clearly leaving these so people just get used to them and forget that they were ever outdated.
 
 ## References/Resources
