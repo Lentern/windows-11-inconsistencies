@@ -6,29 +6,31 @@
 2) Camera - updated to Windows 11 ✔
 3) File Explorer - fully updated to Windows 11 (old Windows 10 look was available via a registry tweak in 21H2) ✔
 4) Taskbar & Accessories - built upon since Windows 10, the Windows 10 taskbar & accessories can be enabled via a registry tweak, half credit ✔❌
-5) Mail - unchanged since Windows 10 ❌
-6) Sticky Notes - unchanged since Windows 10 ❌
-7) Weather - unchanged since Windows 10 ❌
-8) Maps - unchanged since Windows 10 ❌
-9) Movies & TV - unchanged since Windows 10 ❌
-10) LogonUI Network Flyout - unchanged since Windows 10 ❌
-11) On-Screen Keyboard - unchanged since Windows 10 ❌
-12) Magnifier - unchanged since Windows 10 ❌
-13) Registry Editor Product Details - unchanged since Windows 10 (seriously?) and there's one part from Windows 7 ❌
+5) wsreset.exe Icon - unchanged since Windows (10?) ❌
+6) Mail - unchanged since Windows 10 ❌
+7) Sticky Notes - unchanged since Windows 10 ❌
+8) Weather - unchanged since Windows 10 ❌
+9) Maps - unchanged since Windows 10 ❌
+10) Movies & TV - unchanged since Windows 10 ❌
+11) LogonUI Network Flyout - unchanged since Windows 10 ❌
+12) On-Screen Keyboard - unchanged since Windows 10 ❌
+13) Magnifier - unchanged since Windows 10 ❌
+14) Registry Editor Product Details - unchanged since Windows 10 (seriously?) and there's one part from Windows 7 ❌
 
-**Score: 2/13**
+**Score: 2/14**
 
 ## Windows 8/8.1 Remnants
 1) LogonUI Ease of Access Flyout - updated to Windows 11 ✔
 2) Task Manager - updated to Windows 11 ✔
 3) Volume & Brightness Rockers - updated to Windows 11 ✔
 4) Spinning Loading Dots - changed to Windows 10X loading wheel in only some areas, half credit ✔❌
-5) BSOD - essentially unchanged since Windows 8 ❌
-6) Unknown File Type Dialogue - unchanged since Windows 8 ❌
-7) This App Can't Run on Your PC Dialog - unchanged since Windows 8 ❌
-8) AutoPlay Dialog - unchanged since Windows 8 ❌
+5) "Someone else is still using this PC dialog" - old menu can sometimes be shown with programs like StartAllBack, half credit ✔❌
+6) BSOD - essentially unchanged since Windows 8 ❌
+7) Unknown File Type Dialogue - unchanged since Windows 8 ❌
+8) This App Can't Run on Your PC Dialog - unchanged since Windows 8 ❌
+9) AutoPlay Dialog - unchanged since Windows 8 ❌
 
-**Score: 3.5/8**
+**Score: 4/9**
 
 ## Windows 7 Remnants
 1) Paint - updated to Windows 11 ✔
@@ -114,7 +116,7 @@
 
 **Score: 0/1**
 
-## Overall Score: 9.5/74
+## Overall Score: 10/76
 The fact that there are still remnants that go all the way back to Windows 3.1 is baffling. It's crazy how lazy Microsoft has gotten when it comes to updating these features. It seems like the older they get, the less likely Microsoft is to actually update them. I have my doubts that the Windows 3.1 remnants will ever receive an update. If Microsoft dedicated an entire feature update to fixing these ancient elements of their bloated operating system, I would be extremely happy as it's long overdue. They're clearly leaving these so people just get used to them and forget that they were ever outdated.
 
 ## References/Resources
