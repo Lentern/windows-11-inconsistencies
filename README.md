@@ -16,6 +16,7 @@
 12) On-Screen Keyboard - unchanged since Windows 10 ❌
 13) Magnifier - unchanged since Windows 10 ❌
 14) Registry Editor Product Details - unchanged since Windows 10 (seriously?) and there's one part from Windows 7 ❌
+15) Old Windows 10 OOBE (I think?) - not removed in Windows 11 ([more info here](https://www.writeurl.com/publish/akbkqqo6vyy53yox9wiq)) ❌
 
 **Score: 2/14**
 
