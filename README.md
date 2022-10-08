@@ -1,6 +1,8 @@
 # Windows 11 Inconsistencies
 **I've compiled this list of inconsistencies from these two videos to see which ones have been updated and which haven't. With the Windows Insider dev channel for 22H2 on 7/29/2022, this is what I have found.**
 
+Contribute your own! Let me know of inconsistencies missed here by [making a pull request](https://github.com/Lentern/Windows-11-Inconsistencies/pulls) that follows the format of this file.
+
 ## Windows 10 Remnants
 1) Calculator - updated to Windows 11 ✔
 2) Camera - updated to Windows 11 ✔
@@ -18,7 +20,7 @@
 14) Registry Editor Product Details - unchanged since Windows 10 (seriously?) and there's one part from Windows 7 ❌
 15) Old Windows 10 OOBE (I think?) - not removed in Windows 11 ([more info here](https://www.writeurl.com/publish/akbkqqo6vyy53yox9wiq)) ❌
 
-**Score: 2/14**
+**Score: 4.5/15**
 
 ## Windows 8/8.1 Remnants
 1) LogonUI Ease of Access Flyout - updated to Windows 11 ✔
@@ -46,7 +48,7 @@
 **Score: 1/8**
 
 ## Windows Vista Remnants
-1) Shutdown Dialog Engine - back-end unchanged since Windows Vista but front-end is different, half credit ✔❌
+1) Shutdown Dialog - back-end unchanged since Windows Vista but front-end is different, half credit ✔❌
 2) Windows Mobility Center - unchanged since Windows Vista ❌
 3) User Contacts Folder - unchanged since Windows Vista ❌
 4) Control Panel Sound Panel - unchanged since Windows Vista ❌
@@ -117,8 +119,8 @@
 
 **Score: 0/1**
 
-## Overall Score: 11/77
-The fact that there are still remnants that go all the way back to Windows 3.1 is baffling. It's crazy how lazy Microsoft has gotten when it comes to updating these features. It seems like the older they get, the less likely Microsoft is to actually update them. I have my doubts that the Windows 3.1 remnants will ever receive an update. If Microsoft dedicated an entire feature update to fixing these ancient elements of their bloated operating system, I would be extremely happy as it's long overdue. They're clearly leaving these so people just get used to them and forget that they were ever outdated.
+## Overall Score: 11/76
+The fact that there are still remnants that go all the way back to Windows 1.0 is baffling. It's crazy how lazy Microsoft has gotten when it comes to updating these features. It seems like the older they get, the less likely Microsoft is to actually update them. I have my doubts that the Windows 3.1 remnants will ever receive an update. If Microsoft dedicated an entire feature update to fixing these ancient elements of their bloated operating system, I would be extremely happy as it's long overdue. They're clearly leaving these so people just get used to them and forget that they were ever outdated.
 
 ## References/Resources
 ["The State of Windows" by Enderman](https://www.youtube.com/watch?v=dePr2PPT898)
